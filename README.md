@@ -17,5 +17,9 @@
 <a href="https://drive.google.com/file/d/1UcqqHWhaqj5sLVoLg2FukCsDLaI2j1XG/view?usp=share_link" target="blank"><img align="left" src="https://user-images.githubusercontent.com/32535576/229877991-0dcb0ecb-c8b1-4b0f-9b0b-d1ac2f80fdd3.png" alt="AzureAIFundamentals" height="100" width="100" /></a>
 <a href="https://drive.google.com/file/d/1UFUO6pWKys0I5Ri573kpvKU991PW0Lu-/view?usp=sharing" target="blank"><img align="left" src="https://user-images.githubusercontent.com/32535576/229878786-0ec2f298-9180-4fef-b75a-b035682e56cb.png" alt="AzureDataFundamentals" height="100" width="100" /></a>
 <a href="https://drive.google.com/file/d/1GkW4Wq66Q8GSEl8KV2Rp3IOLjs-hD3AI/view?usp=sharing" target="blank"><img align="left" src="https://user-images.githubusercontent.com/32535576/229878686-1b60aeb0-1728-4358-a6bc-bd35b90e2ad4.png" alt="AzureFundamentals" height="100" width="100" /></a>
-<a href="https://drive.google.com/file/d/1XNlgQ-hKxQ1FfXTUI9w933FP2mWW8onT/view?usp=sharing" target="blank"><img align="left" src="https://user-images.githubusercontent.com/32535576/adfb77bb-39b8-4ba1-8f5c-f7f36259809f" alt="Google Cloud Certified ACE" height="100" width="100" /></a>
+
+
+<a href="https://drive.google.com/file/d/1XNlgQ-hKxQ1FfXTUI9w933FP2mWW8onT/view?usp=sharing" target="blank"><img align="left" src="https://github.com/shubhammalankar/shubhammalankar/blob/44f4f98880e8b040008aad4bc23cb24e71f22421/Google%20Cloud%20Certified%20ACE%20Badge.png" alt="Google Cloud Certified ACE" height="100" width="100" /></a>
+
+
 <a href="https://drive.google.com/file/d/1MwuuAfmBVch5j1JnFST2loxJeqWvxzTc/view?usp=share_link" target="blank"><img align="left" src="https://user-images.githubusercontent.com/32535576/229880835-44ffccc5-8719-4870-a83d-fd2d5010a97f.png" alt="Applied Machine Learning: Algorithms" height="100" width="110" /></a>
