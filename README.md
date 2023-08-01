@@ -19,7 +19,7 @@
 <a href="https://drive.google.com/file/d/1GkW4Wq66Q8GSEl8KV2Rp3IOLjs-hD3AI/view?usp=sharing" target="blank"><img align="left" src="https://user-images.githubusercontent.com/32535576/229878686-1b60aeb0-1728-4358-a6bc-bd35b90e2ad4.png" alt="AzureFundamentals" height="100" width="100" /></a>
 
 
-<a href="https://drive.google.com/file/d/1Ernj8iONvP8kuNoBBNrCDbbjCSkNjL7H/view?usp=sharing" target="blank"><img align="left" src="https://github.com/shubhammalankar/shubhammalankar/assets/32535576/f8ac23bb-cca5-4d7d-ada1-c3a0772bcc54" alt="Developer Associate" height="100" width="100" /></a>
+<a href="https://drive.google.com/file/d/1Ernj8iONvP8kuNoBBNrCDbbjCSkNjL7H/view?usp=sharing" target="blank"><img align="left" src="https://github.com/shubhammalankar/shubhammalankar/blob/92fed1baf94ee49c98ee7e609b27d0ae3f106478/Azure%20Developer%20Associate%20Badge.png" alt="Developer Associate" height="100" width="100" /></a>
 
 <a href="https://drive.google.com/file/d/1XNlgQ-hKxQ1FfXTUI9w933FP2mWW8onT/view?usp=sharing" target="blank"><img align="left" src="https://github.com/shubhammalankar/shubhammalankar/blob/44f4f98880e8b040008aad4bc23cb24e71f22421/Google%20Cloud%20Certified%20ACE%20Badge.png" alt="Google Cloud Certified ACE" height="100" width="100" /></a>
 
