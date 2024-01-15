@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubham Malankar</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate Full Stack Software Developer</h3>
 
-🌱 I’m completed my Masters degree in Computer Science from University of Texas at Arlington in December 2023. I have over 3 years of Technical experience  
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true)
-
+🌱 Exploring new technologies and frameworks in Machine Learning, Software Development, Cloud Platforms.<br>
+🎓 Graduated with Masters in Computer Science from University of Texas at Arglington in December 2023.<br>
 📄 Know about my <a href="https://drive.google.com/file/d/1TCnjo8gYwM2NA-fTAYeG_i0Jxmdyn8UH/view?usp=share_link" target="_blank"  alt="Resume"> experiences</a>
 
 ## Languages and Tools:
@@ -24,7 +20,10 @@
 
 
 <a href="https://drive.google.com/file/d/1MwuuAfmBVch5j1JnFST2loxJeqWvxzTc/view?usp=share_link" target="blank"><img align="left" src="https://user-images.githubusercontent.com/32535576/229880835-44ffccc5-8719-4870-a83d-fd2d5010a97f.png" alt="Applied Machine Learning: Algorithms" height="100" width="110" /></a>
-
+<br>
+<br>
+<br>
+<br>
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/shubhammalankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhammalankar" height="30" width="40" /></a>
