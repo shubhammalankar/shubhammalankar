@@ -3,7 +3,7 @@
 
 🌱 Exploring new technologies and frameworks in Machine Learning, Software Development, Cloud Platforms.<br>
 🎓 Graduated with Masters in Computer Science from University of Texas at Arglington in December 2023.<br>
-📄 Know about my <a href="https://drive.google.com/file/d/1TCnjo8gYwM2NA-fTAYeG_i0Jxmdyn8UH/view?usp=share_link" target="_blank"  alt="Resume"> experiences</a><br><br>
+📄 Know about my <a href="https://drive.google.com/file/d/1rzMPXDddCXMECZsAcyckqTOZS6q5MfGO/view?usp=sharing" target="_blank"  alt="Resume"> experiences</a><br><br>
 ![](https://komarev.com/ghpvc/?username=mansithanki&color=green)
 
 
