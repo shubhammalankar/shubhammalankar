@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Malankar</h1>
-<h3 align="center">A passionate Full Stack Software Developer</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
-🌱 Exploring new technologies and frameworks in Machine Learning, Software Development, Cloud Platforms.<br>
+🌱 Exploring new technologies and frameworks in Data Engineering, Cloud Platforms, Machine Learning and Software development.<br>
 🎓 Graduated with Masters in Computer Science from University of Texas at Arglington in December 2023.<br>
 📄 Know about my <a href="https://drive.google.com/file/d/1rzMPXDddCXMECZsAcyckqTOZS6q5MfGO/view?usp=sharing" target="_blank"  alt="Resume"> experiences</a><br><br>
 ![](https://komarev.com/ghpvc/?username=mansithanki&color=green)
